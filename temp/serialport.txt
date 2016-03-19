@@ -1,0 +1,15 @@
+/dev/cu.Bluetooth-Incoming-Port
+-------------------------------
+Hardware ID: n/a
+Description: n/a
+
+/dev/cu.Bluetooth-Modem
+-----------------------
+Hardware ID: n/a
+Description: n/a
+
+/dev/cu.usbmodem1451
+--------------------
+Hardware ID: USB VID:PID=2341:0043 SER=754393136373513082A0 LOCATION=20-5
+Description: n/a
+
